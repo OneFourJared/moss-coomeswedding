@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/moss-coomeswedding",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "jaredmoss-coomes",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
