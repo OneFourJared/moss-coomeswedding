@@ -9,9 +9,9 @@
 <body>
 <?php include('includes/navigation.php'); ?>
 <div class="container-fluid">
-    <div class="row h-100">
+    <div class="row">
         <div class="col">
-            <div class="home-back">
+            <div class="home-back h-100">
 
             </div>
         </div>
