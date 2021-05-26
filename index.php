@@ -10,8 +10,8 @@
 <?php include('includes/navigation.php'); ?>
 <div class="container-fluid">
     <div class="row">
-        <div class="col">
-            <div class="home-back h-100">
+        <div class="col mx-0 px-0">
+            <div class="home-back">
 
             </div>
         </div>
