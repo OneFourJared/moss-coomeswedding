@@ -8,9 +8,10 @@
 </head>
 <body>
 <?php include('includes/navigation.php'); ?>
+
 <div class="container-fluid">
     <div class="row">
-        <div class="col mx-0 px-0">
+        <div class="col-12 mx-0 px-0">
             <div class="home-back">
 
             </div>
