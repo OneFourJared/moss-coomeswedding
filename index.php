@@ -18,7 +18,7 @@
     </div>
 </div>
 <div class="container-fluid">
-    <div clas="row mt-3">
+    <div class="row mt-3">
         <div class="col-md-6">
             <div class="text-center">
                 <h1>Jared</h1>
