@@ -9,16 +9,16 @@
 <body>
 <?php include('includes/navigation.php'); ?>
 
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-12 mx-0">
+<div class="container-fluid p-0">
+    <div class="row no-gutters">
+        <div class="col-12">
             <div class="home-back">
             </div>
         </div>
     </div>
 </div>
-<div class="container-fluid">
-    <div class="row mt-3">
+<div class="container-fluid p-0">
+    <div class="row mt-3 no-gutters">
         <div class="col-md-6">
             <div class="text-center">
                 <h1>Jared</h1>
