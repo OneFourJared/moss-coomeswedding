@@ -1,3 +1,7 @@
+body{
+    overflow-x: hidden;
+}
+
 .bg-cream{
     background-color: #ddddc5;
 }
