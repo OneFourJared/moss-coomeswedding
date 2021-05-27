@@ -11,7 +11,7 @@
 
 <div class="container-fluid">
     <div class="row">
-        <div class="col-12 mx-0 px-0">
+        <div class="col-12 mx-0">
             <div class="home-back">
             </div>
         </div>
@@ -28,7 +28,7 @@
         </div>
         <div class="col-md-6">
             <div class="text-center">
-                <img src="public/023-french-wedding-photographer.jpg" width="30vh">
+                <img src="public/023-french-wedding-photographer.jpg" style="width:50%;">
             </div>
         </div>
     </div>
