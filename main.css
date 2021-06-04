@@ -1,7 +1,7 @@
 body{
     overflow-x: hidden;
     background-color: #E5E4DE;
-    font-family: 'Mate SC', serif;
+    font-family: 'Mate SC', serif; !important;
 }
 
 .bg-cream{
@@ -11,10 +11,16 @@ body{
 .home-back{
     height:100vh;
     background-size: cover;
-    background: url("public/resized-image-Promo.jpeg") no-repeat center
+    background-image: url("public/resized-image-Promo.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
 
 }
 
 .font-handwrite{
     font-family: 'Parisienne', cursive;
+}
+
+.font-large{
+    font-size: 2rem;
 }

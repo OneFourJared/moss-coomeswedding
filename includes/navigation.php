@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col">
             <nav class="navbar navbar-expand-lg navbar-light bg-cream">
-                <a class="navbar-brand mx-3 font-handwrite" href="/">Wedding</a>
+                <a class="navbar-brand mx-3 font-handwrite font-large" href="/">Wedding</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>

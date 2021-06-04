@@ -23,7 +23,7 @@
         <div class="col-md-6">
             <div class="text-center">
                 <h1>Jared</h1>
-                <h5 class="font-handwrite">and</h5>
+                <h4 class="font-handwrite">and</h4>
                 <h1>Kate</h1>
             </div>
         </div>
