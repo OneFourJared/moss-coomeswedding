@@ -21,7 +21,7 @@
 <div class="container-fluid px-0">
     <div class="row mt-3">
         <div class="col-md-6">
-            <div class="text-center">
+            <div class="text-center font-main">
                 <h1>Jared</h1>
                 <h4 class="font-handwrite">and</h4>
                 <h1>Kate</h1>
