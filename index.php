@@ -22,14 +22,15 @@
     <div class="row mt-3">
         <div class="col-md-6">
             <div class="text-center font-main">
-                <h1>Jared</h1>
-                <h4 class="font-handwrite">and</h4>
                 <h1>Kate</h1>
+                <h4 class="font-handwrite">and</h4>
+                <h1>Jared</h1>
             </div>
         </div>
         <div class="col-md-6">
-            <div class="text-center">
-                <img src="public/023-french-wedding-photographer.jpg" style="width:50%;">
+            <div class="text-center p-5">
+               <div class="home-img">
+               </div>
             </div>
         </div>
     </div>
