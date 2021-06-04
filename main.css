@@ -9,7 +9,7 @@ body{
 }
 
 .home-back{
-    height:100vh;
+    height: calc(100vh - 74px);
     background-size: cover;
     background-image: url("public/resized-image-Promo.jpeg");
     background-position: center;
