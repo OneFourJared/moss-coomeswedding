@@ -27,8 +27,8 @@
                 <h1>Jared</h1>
             </div>
         </div>
-        <div class="col-md-6">
-            <div class="text-center p-5">
+        <div class="col-md-6 my-auto">
+            <div class="text-center p-3">
                <div class="home-img">
                </div>
             </div>
