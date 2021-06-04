@@ -1,7 +1,7 @@
 body{
     overflow-x: hidden;
     background-color: #E5E4DE;
-    font-family: 'Mate SC', serif; !important;
+    font-family: 'Mate SC', serif !important;
 }
 
 .bg-cream{
@@ -22,5 +22,5 @@ body{
 }
 
 .font-large{
-    font-size: 2rem;
+    font-size: 2rem !important;
 }
