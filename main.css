@@ -17,7 +17,7 @@ body{
 
 }
 .home-img{
-    height: 35vw;
+    height: 30em;
     background-size: cover;
     background-image: url("public/023-french-wedding-photographer.jpg");
     background-position: center;
