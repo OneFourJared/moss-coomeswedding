@@ -21,13 +21,13 @@
 <div class="container-fluid px-0">
     <div class="row mt-3">
         <div class="col-md-5 my-auto">
-            <div class="text-center font-main">
+            <div class="text-md-center font-main text-left">
                 <h1>Kate</h1>
                 <h4 class="font-handwrite">and</h4>
                 <h1>Jared</h1>
             </div>
         </div>
-        <div class="col-md-7 my-auto">
+        <div class="col-md-7 my-auto mt-sm-n3">
             <div class="text-center p-5">
                <div class="home-img">
                </div>
