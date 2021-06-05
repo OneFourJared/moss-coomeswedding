@@ -1,5 +1,5 @@
 <div class="container-fluid px-0">
-            <nav class="navbar navbar-expand-lg navbar-light bg-cream">
+            <nav class="navbar navbar-expand-md navbar-light bg-cream">
                 <a class="navbar-brand mx-3 font-handwrite font-large" href="/">Wedding</a>
                 <button class="navbar-toggler mr-3" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
