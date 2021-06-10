@@ -38,26 +38,26 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
-            <img src="https://ibb.co/3fxM7Q8"
+            <img src="https://i.ibb.co/M8zGsQj/landscape1.jpg"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt=""/>
-            <img src="https://ibb.co/RCCYHbn"
-                    class="w-100 shadow-1-strong rounded mb-4"
-                    alt=""/>
-        </div>
-        <div class="col-lg-4 mb-4 mb-lg-0">
-            <img src="https://ibb.co/zn4tsMc"
-                    class="w-100 shadow-1-strong rounded mb-4"
-                    alt=""/>
-            <img src="https://ibb.co/YXr77mh"
+            <img src="https://i.ibb.co/555Gc4D/portrait1.jpg"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt=""/>
         </div>
         <div class="col-lg-4 mb-4 mb-lg-0">
-            <img src="https://ibb.co/5YMD6mz"
+            <img src="https://i.ibb.co/p0Lk27D/landscape2.jpg"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt=""/>
-            <img src="https://ibb.co/2v23FmC"
+            <img src="https://i.ibb.co/pQmvvcd/landscape4.jpg"
+                    class="w-100 shadow-1-strong rounded mb-4"
+                    alt=""/>
+        </div>
+        <div class="col-lg-4 mb-4 mb-lg-0">
+            <img src="https://i.ibb.co/hX75ybn/landscape3.jpg"
+                    class="w-100 shadow-1-strong rounded mb-4"
+                    alt=""/>
+            <img src="https://i.ibb.co/rxP2QTz/portrait2.jpg"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt=""/>
         </div>
