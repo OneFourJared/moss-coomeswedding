@@ -41,7 +41,6 @@
             <img src="https://ibb.co/3fxM7Q8"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt=""/>
-
             <img src="https://ibb.co/RCCYHbn"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt=""/>
@@ -50,17 +49,14 @@
             <img src="https://ibb.co/zn4tsMc"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt=""/>
-
             <img src="https://ibb.co/YXr77mh"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt=""/>
         </div>
-
         <div class="col-lg-4 mb-4 mb-lg-0">
             <img src="https://ibb.co/5YMD6mz"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt=""/>
-
             <img src="https://ibb.co/2v23FmC"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt=""/>
