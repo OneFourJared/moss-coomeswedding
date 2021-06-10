@@ -9,11 +9,13 @@ body{
 }
 
 .home-back{
-    height: calc(100vh - 74px);
+    height: 100vh;
     background-size: cover;
     background-image: url("public/resized-image-Promo.jpeg");
     background-position: center;
     background-repeat: no-repeat;
+    padding-top:-74px;
+    background-blend-mode: overlay;
 
 }
 .home-img{
