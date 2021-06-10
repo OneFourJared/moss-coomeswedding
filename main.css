@@ -15,12 +15,22 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     margin-top:-74px;
+    z-index: 100;
 
 }
 
 .home-back::after{
-    background-color: black;
-    opacity: 35%;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(
+            120deg
+            , #000000, #4a5154);
+    opacity: .4;
+    z-index: 1;
 }
 .home-img{
     height: 30em;
