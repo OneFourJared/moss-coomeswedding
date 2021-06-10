@@ -15,9 +15,12 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     margin-top:-74px;
-    z-index: 100;
 
 }
+
+.banner > *{
+     z-index: 100;
+ }
 
 .home-back::after{
     content: "";
