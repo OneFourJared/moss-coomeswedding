@@ -11,10 +11,10 @@
 <?php include('includes/navigation.php'); ?>
 
 <div class="container-fluid px-0">
-    <div class="row">
-        <div class="col-12 my-auto">
+    <div class="row my-auto">
+        <div class="col-12">
             <div class="home-back">
-                <div class="text-center font-main">
+                <div class="text-center font-main text-white">
                     <h1>Kate</h1>
                     <h4 class="font-handwrite">and</h4>
                     <h1>Jared</h1>
