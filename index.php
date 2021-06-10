@@ -46,9 +46,10 @@
                     alt=""/>
         </div>
         <div class="col-lg-4 mb-4 mb-lg-0">
-            <img src="https://i.ibb.co/p0Lk27D/landscape2.jpg"
-                    class="w-100 shadow-1-strong rounded mb-4"
-                    alt=""/>
+            <img src="https://i.ibb.co/rxP2QTz/portrait2.jpg"
+                 class="w-100 shadow-1-strong rounded mb-4"
+                 alt=""/>
+
             <img src="https://i.ibb.co/pQmvvcd/landscape4.jpg"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt=""/>
@@ -57,9 +58,9 @@
             <img src="https://i.ibb.co/hX75ybn/landscape3.jpg"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt=""/>
-            <img src="https://i.ibb.co/rxP2QTz/portrait2.jpg"
-                    class="w-100 shadow-1-strong rounded mb-4"
-                    alt=""/>
+            <img src="https://i.ibb.co/p0Lk27D/landscape2.jpg"
+                 class="w-100 shadow-1-strong rounded mb-4"
+                 alt=""/>
         </div>
     </div>
 </div>
