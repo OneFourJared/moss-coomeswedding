@@ -14,9 +14,13 @@ body{
     background-image: url("public/resized-image-Promo.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    padding-top:-74px;
-    background-blend-mode: overlay;
+    margin-top:-74px;
 
+}
+
+.home-back::after{
+    background-color: black;
+    opacity: 35%;
 }
 .home-img{
     height: 30em;
