@@ -13,7 +13,7 @@
 <div class="container-fluid px-0">
     <div class="row my-auto">
         <div class="col-12">
-            <div class="home-back">
+            <div class="home-back vertical-center">
                 <div class="text-center font-main text-white">
                     <h1>Kate</h1>
                     <h4 class="font-handwrite">and</h4>
