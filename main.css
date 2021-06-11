@@ -17,6 +17,15 @@ body{
     margin-top:-68px;
 
 }
+.rsvp-header{
+    height: 25vh;
+    background-size: cover;
+    background-image: url("public/Toulouse-wedding-photographer076.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top:-68px;
+
+}
 
 .home-img{
     height: 30em;

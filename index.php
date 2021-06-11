@@ -16,7 +16,7 @@
             <div class="home-back vertical-center">
                 <div class="text-center font-main text-white">
                     <h1>Kate</h1>
-                    <h4 class="font-handwrite">and</h4>
+                    <h4>and</h4>
                     <h1>Jared</h1>
                     <h5 id="demo" class="font-handwrite">
                     </h5>
