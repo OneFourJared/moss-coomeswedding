@@ -18,11 +18,10 @@
                     <h1>Kate</h1>
                     <h4 class="font-handwrite">and</h4>
                     <h1>Jared</h1>
-                    <h4 id="demo" class="font-handwrite">
-                    </h4>
+                    <h5 id="demo" class="font-handwrite">
+                    </h5>
                     <h6 class="font-handwrite">Until the big day</h6>
                 </div>
-
             </div>
         </div>
     </div>
