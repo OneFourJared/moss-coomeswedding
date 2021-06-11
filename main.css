@@ -14,7 +14,7 @@ body{
     background-image: url("public/resized-image-Promo.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    margin-top:-74px;
+    margin-top:-52px;
 
 }
 
@@ -47,4 +47,8 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.navbar-nav li{
+    font-size: 1.5rem;
 }
