@@ -18,12 +18,11 @@
                     <h1>Kate</h1>
                     <h4 class="font-handwrite">and</h4>
                     <h1>Jared</h1>
-                </div>
-                <div class="text-center font-handwrite text-white">
-                    <h5 id="countdown">
+                    <h5 id="countdownTimer" class="font-handwrite">
                     </h5>
-                    <h6>Until the big day</h6>
+                    <h6 class="font-handwrite">Until the big day</h6>
                 </div>
+
             </div>
         </div>
     </div>
@@ -76,33 +75,28 @@
 <!--</div>-->
 <?php //include('includes/footer.php'); ?>
 <script>
-    // Set the date we're counting down to
-    var countDownDate = new Date("June 20th, 2022 10:00:00").getTime();
+    function countdownTimer() {
+        const difference = +new Date("2022-20-06") - +new Date();
+        let remaining = "We Made it!";
 
-    // Update the count down every 1 second
-    var x = setInterval(function() {
-
-        // Get today's date and time
-        var now = new Date().getTime();
-
-        // Find the distance between now and the count down date
-        var distance = countDownDate - now;
-
-        // Time calculations for days, hours, minutes and seconds
-        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-        // Display the result in the element with id="demo"
-        document.getElementById("countdown").innerHTML = days + "days";
-
-        // If the count down is finished, write some text
-        if (distance < 0) {
-            clearInterval(x);
-            document.getElementById("countdown").innerHTML = "We did it! ";
+        if (difference > 0) {
+            const parts = {
+                days: Math.floor(difference / (1000 * 60 * 60 * 24)),
+                hours: Math.floor((difference / (1000 * 60 * 60)) % 24),
+                minutes: Math.floor((difference / 1000 / 60) % 60),
+                seconds: Math.floor((difference / 1000) % 60),
+            };
+            remaining = Object.keys(parts).map(part => {
+                return `${parts[part]} ${part}`;
+            }).join(" ");
         }
-    }, 1000);
+
+        document.getElementById("countdown").innerHTML = remaining;
+    }
+
+    countDownTimer();
+    setInterval(countdownTimer, 1000);
+
 </script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
 </body>
