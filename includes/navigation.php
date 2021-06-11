@@ -1,5 +1,5 @@
 <div class="container-fluid px-0">
-        <nav class="navbar navbar-expand-md navbar-dark bg-nav-gradient px-5">
+        <nav class="navbar navbar-dark bg-nav-gradient px-5">
             <div>
                 <ul class="navbar-nav w-100 justify-content-center text-white font-handwrite">
                     <li class="nav-item">
