@@ -14,9 +14,6 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/RSVP">RSVP</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Contact</a>
-                    </li>
                 </ul>
             </div>
         </nav>

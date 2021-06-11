@@ -64,5 +64,5 @@ body{
 
 .bg-nav-gradient{
     background: rgb(0,0,0);
-    background: linear-gradient(180deg, rgba(0,0,0,0.7903536414565826) 0%, rgba(0,0,0,0) 53%);
+    background: linear-gradient(180deg, rgba(0,0,0,0.7959558823529411) 0%, rgba(0,0,0,0.6194852941176471) 35%, rgba(0,0,0,0) 70%);
 }
