@@ -61,3 +61,8 @@ body{
 .navbar-nav li{
     font-size: 1.5rem;
 }
+
+.bg-nav-gradient{
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,0.7903536414565826) 0%, rgba(0,0,0,0) 53%);
+}
