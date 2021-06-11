@@ -1,9 +1,9 @@
 <div class="container-fluid px-0">
             <nav class="navbar navbar-expand-md navbar-dark bg-transparent px-5">
-                <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse mx-1" id="navbarNav">
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav w-100 justify-content-center text-white font-handwrite">
                         <li class="nav-item">
                             <a class=" nav-link" href="/">Home</a>
