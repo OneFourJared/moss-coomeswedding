@@ -1,6 +1,6 @@
 <div class="container-fluid px-0">
         <nav class="navbar navbar-dark bg-nav-gradient px-5">
-            <div class="" id="navbarSupportedContent">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav w-100 justify-content-center text-white font-handwrite">
                     <li class="nav-item">
                         <a class=" nav-link" href="/">Home</a>
