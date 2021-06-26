@@ -72,4 +72,12 @@ body{
 .navbar-nav li a{
     font-size: 4rem;
 }
+
+    .font-main h4{
+        font-size: 15vw;
+    }
+
+    .font-main h1 {
+        font-size: 30vw;
+    }
 }
