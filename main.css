@@ -69,7 +69,7 @@ body{
 
 @media only screen and (max-width: 426px) {
 
-.navbar-nav li{
+.navbar-nav li a{
     font-size: 4rem;
 }
 }
