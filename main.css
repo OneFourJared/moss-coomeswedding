@@ -67,17 +67,10 @@ body{
     background: linear-gradient(180deg, rgba(0,0,0,0.7959558823529411) 0%, rgba(0,0,0,0.6194852941176471) 35%, rgba(0,0,0,0) 70%);
 }
 
-@media only screen and (max-width: 426px) {
-
-.navbar-nav li a{
-    font-size: 4rem;
-}
-
-    .font-main h4{
-        font-size: 15vw;
+    /* If the screen size is 600px or less, set the font-size of <div> to 30px */
+    @media only screen and (max-width: 426px) {
+        div.example {
+            font-size: 3em;
+        }
     }
 
-    .font-main h1 {
-        font-size: 30vw;
-    }
-}
