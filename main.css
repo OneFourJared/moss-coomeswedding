@@ -66,3 +66,10 @@ body{
     background: rgb(0,0,0);
     background: linear-gradient(180deg, rgba(0,0,0,0.7959558823529411) 0%, rgba(0,0,0,0.6194852941176471) 35%, rgba(0,0,0,0) 70%);
 }
+
+@media only screen and (max-width: 426px) {
+
+.navbar-nav li{
+    font-size: 4rem;
+}
+}

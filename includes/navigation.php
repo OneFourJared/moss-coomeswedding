@@ -3,7 +3,7 @@
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="" id="navbarSupportedContent">
                 <ul class="navbar-nav w-100 justify-content-center text-white font-handwrite">
                     <li class="nav-item">
                         <a class=" nav-link" href="/">Home</a>
