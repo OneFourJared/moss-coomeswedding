@@ -16,7 +16,7 @@
     <div class="container">
         <div class="row text-center g-0">
             <div class="col">
-                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgM5rH9f5JCKW6mjtuMFVm3rhershIIzTnqZkrJVw2ihjAOA/viewform?embedded=true" width="75%" height="796" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x="hidden";>Loading…</iframe>
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgM5rH9f5JCKW6mjtuMFVm3rhershIIzTnqZkrJVw2ihjAOA/viewform?embedded=true" width="100%" height="796" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
             </div>
         </div>
     </div>
