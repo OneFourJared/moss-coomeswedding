@@ -96,6 +96,7 @@
 
         // Output the result in an element with id="demo"
         document.getElementById("demo").innerHTML = days + " days";
+        document.getElementById("spinner").style.display = "none";
 
         // If the count down is over, write some text
         if (distance < 0) {
@@ -104,22 +105,7 @@
         }
     }, 1000);
 </script>
-<script>
-    (window).on('load', function(){
-        setTimeout(removeLoader, 2000); //wait for page load PLUS two seconds.
-    });
-    function removeLoader(){
-        ( "#spinnrt" ).fadeOut(500, function() {
-            // fadeOut complete. Remove the loading div
-            $( "#spinner" ).remove(); //makes page more lightweight
-        });
-    }
-</script>
-<script>
-    (window).load(function() {
-        ('#spinner').hide();
-    });
-</script>
+
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
 </html>
