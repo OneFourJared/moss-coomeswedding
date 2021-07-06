@@ -11,7 +11,7 @@
 <?php include('includes/navigation.php'); ?>
 
 <div class="container-fluid px-0">
-    <div class="row my-auto px-0">
+    <div class="row my-auto px-0 g-0">
         <div class="col-12">
             <div class="home-back vertical-center">
                 <div class="text-center font-main text-white">
