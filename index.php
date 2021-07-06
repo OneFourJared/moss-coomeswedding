@@ -18,8 +18,7 @@
                     <h1>Kate</h1>
                     <h4>and</h4>
                     <h1>Jared</h1>
-                    <div class="spinner-border text-primary" role="status">
-                        <span class="sr-only">Loading...</span>
+                    <div class="spinner-border text-primary" role="status" id="spinner">
                     </div>
                     <h5 id="demo" class="font-handwrite">
                     </h5>
@@ -106,8 +105,8 @@
     }, 1000);
 </script>
 <script>
-    $(document).ready(function() {
-        $('.spinner-border').hide();
+    $(window).load(function() {
+        $('#spinner').hide();
     });
 </script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
