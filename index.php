@@ -18,7 +18,7 @@
                     <h1>Kate</h1>
                     <h4>and</h4>
                     <h1>Jared</h1>
-                    <div class="spinner-border text-primary" role="status" id="spinner">
+                    <div class="spinner-border text-light" role="status" id="spinner">
                     </div>
                     <h5 id="demo" class="font-handwrite">
                     </h5>
