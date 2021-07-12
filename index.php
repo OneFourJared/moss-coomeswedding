@@ -79,9 +79,6 @@
     // Set the date we're counting down to
     var countDownDate = new Date("Jun 25, 2022 15:37:25").getTime();
 
-    // Update the count down every 1 second
-    var x = setInterval(function() {
-
         // Get today's date and time
         var now = new Date().getTime();
 
@@ -103,7 +100,6 @@
             clearInterval(x);
             document.getElementById("demo").innerHTML = "We did it!";
         }
-    }, 1000);
 </script>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
